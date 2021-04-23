@@ -1,0 +1,32 @@
+Marina@LAPTOP-3VUUSJU5 MINGW64 ~
+$ cd Documents
+
+Marina@LAPTOP-3VUUSJU5 MINGW64 ~/Documents
+$ mkdir Premierprojet
+
+Marina@LAPTOP-3VUUSJU5 MINGW64 ~/Documents
+$ cd premierprojet
+
+Marina@LAPTOP-3VUUSJU5 MINGW64 ~/Documents/premierprojet
+$ git config --global user.name "Marina DARDE"
+
+Marina@LAPTOP-3VUUSJU5 MINGW64 ~/Documents/premierprojet
+$ git config --global user.email marinasatsyk@gmail.com
+
+Marina@LAPTOP-3VUUSJU5 MINGW64 ~/Documents/premierprojet
+$ git config --global color.diff auto
+
+Marina@LAPTOP-3VUUSJU5 MINGW64 ~/Documents/premierprojet
+$ git config --global color.status auto
+
+Marina@LAPTOP-3VUUSJU5 MINGW64 ~/Documents/premierprojet
+$ git config --global color.branch auto
+
+Marina@LAPTOP-3VUUSJU5 MINGW64 ~/Documents/premierprojet
+$ git config --global core.editor vim
+
+Marina@LAPTOP-3VUUSJU5 MINGW64 ~/Documents/premierprojet
+$ git config --global merge.tool vimdiff
+
+Marina@LAPTOP-3VUUSJU5 MINGW64 ~/Documents/premierprojet
+$ git init
